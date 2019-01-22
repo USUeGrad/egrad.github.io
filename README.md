@@ -1,40 +1,40 @@
-# Jekyll Doc Theme
+# How to Run Locally
 
-Go to [the website](https://aksakalli.github.io/jekyll-doc-theme/) for detailed information and demo.
-
-## Running locally
-
-You need Ruby and gem before starting, then:
-
+1. Follow these steps with preferred OS Guide: https://jekyllrb.com/docs/installation/
+2. After installing dependencies outlined on the guide above: 
 ```bash
 # install bundler
 gem install bundler
 
 # clone the project
-git clone https://github.com/aksakalli/jekyll-doc-theme.git
-cd jekyll-doc-theme
+git clone https://github.com/usuegrad/egrad-wiki
+cd egrad-wiki
 
 # run jekyll with dependencies
 bundle exec jekyll serve
 ```
+# How to create a post
 
-## Docker
-
-Alternatively, you can deploy it using the multi-stage [Dockerfile](Dockerfile)
-that serves files from Nginx for better performance in production.
-
-Build the image for your site's `JEKYLL_BASEURL`:
-
+1. Edit `\_data\docs.yml`
+2. Create Entry within structure:
 ```
-docker build --build-arg JEKYLL_BASEURL="/" -t jekyll-doc-theme .
+- title: Getting Started
+  docs:
+  - home
+  - themes
+  - customization
+  - newpage #new entry
 ```
-
-and serve it:
-
+3. Creat Markdown File within `\docs\` with the same name as the entry: 
+    `\docs\newpage.md` or within appropriate directory
+4. Give it a title and link:
+```MD
+---
+title: New Page
+permalink: /docs/newpage/
+---
 ```
-docker run -p 8080:80 jekyll-doc-theme
-```
+5. Write away!
 
-## License
 
-Released under [the MIT license](LICENSE).
+
