@@ -1,11 +1,8 @@
-- title: Getting Started
+- title: Getting Started with eGrad
   docs:
   - home
-  - themes
-  - customization
 
 - title: Examples
   docs:
   - cheatsheet
-  - font-awesome
-  - bootstrap
+
