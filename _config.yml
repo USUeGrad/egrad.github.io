@@ -6,7 +6,7 @@ description: >
   Emma Eccles Jones College of Education and Human Services at Utah State University.
 lang: en-US
 
-baseurl: "/docs" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: https://usuegrad.github.io/egrad-wiki/ # the base hostname & protocol for your site
 git_address: https://github.com/USUeGrad/egrad-wiki/
 
