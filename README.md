@@ -13,7 +13,10 @@ cd egrad-wiki
 # run jekyll with dependencies
 bundle exec jekyll serve
 ```
-# How to create a post
+
+## Writing content
+
+### How to create a post
 
 1. Edit `\_data\docs.yml`
 2. Create Entry within structure:
@@ -36,5 +39,7 @@ permalink: /docs/newpage/
 ```
 5. Write away!
 
+### Blog posts
 
+Add a new Markdown file such as `2017-05-09-my-post.md` and write the content similar to other post examples.
 
