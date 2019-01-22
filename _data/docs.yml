@@ -1,7 +1,11 @@
 - title: Getting Started with eGrad
   docs:
   - home
-
+- title: Applications Module
+  docs:
+  - applications/change-cohort
+  - prescreen
+  - send-to-review
 - title: Examples
   docs:
   - cheatsheet
