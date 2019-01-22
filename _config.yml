@@ -17,7 +17,7 @@ bootwatch: paper
 
 # Build settings
 markdown: kramdown
-remote_theme: aksakalli/jekyll-doc-theme
+#remote_theme: aksakalli/jekyll-doc-theme
 highlighter: rouge
 gems:
   - jekyll-feed
@@ -31,7 +31,7 @@ exclude:
   - .idea/
   - .gitignore
   - README.md
-timezone: Europe/Berlin
+timezone: America/Denver
 defaults:
 - scope:
     path: _posts
