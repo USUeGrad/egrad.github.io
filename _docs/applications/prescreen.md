@@ -1,5 +1,5 @@
 ---
-title: PreScreen Applications
+title: Prescreen Applications
 permalink: /docs/applications/prescreen/
 ---
 
