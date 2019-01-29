@@ -4,8 +4,8 @@
 - title: Applications Module
   docs:
   - applications/change-cohort
-  - prescreen
-  - send-to-review
+  - applications/prescreen
+  - applications/send-to-review
 - title: Examples
   docs:
   - cheatsheet

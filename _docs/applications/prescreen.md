@@ -1,4 +1,4 @@
 ---
 title: Pre-Screen
-permalink: /docs/prescreen/
+permalink: /docs/applications/prescreen/
 ---
