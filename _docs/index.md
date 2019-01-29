@@ -9,7 +9,7 @@ redirect_from: /docs/index.html
 #### Applications Module
 
 - [Change an applicant's term/year of application (Change Cohort)](../applications/change-cohort/)
-- Review an application for completeness
+- [Review an application for completeness (Pre-screen)](../applications/prescreen/)
 - Send an application for review
 
 #### Students Module

@@ -2,7 +2,7 @@
 title: Change Cohort
 permalink: /docs/applications/change-cohort/
 ---
-#### How-to change an applicant's term/year of application
+#### How to change an applicant's term/year of application
 1. Navigate to the Application Search Menu
 <img src="../../img/apps/app-menu.png" width="300" />
 2. Click the applicant whose cohort you would like to change.
