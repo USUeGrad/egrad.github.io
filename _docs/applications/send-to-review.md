@@ -6,7 +6,7 @@ permalink: /docs/applications/send-to-review/
 #### How to send an application to review by a committee or other staff/faculty
 1. Navigate to the Application Search Menu
 <img src="../../img/apps/app-menu.png" width="300" />
-2. Click the applicant whose you would like to have reviewed.
+2. Click the applicant whom you would like to have reviewed.
 ![AppScreen]
 3. Click on "Send for Review" Button
 ![AppSelect]
