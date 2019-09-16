@@ -26,12 +26,12 @@ permalink: /docs/applications/send-to-review/
 ![ConfirmReview]
 
 
-[AppScreen]: ../../img/apps/applist-select.png
-[AppSelect]: ../../img/apps/appscreen-send-for-review.png
-[SelectRubric]: ../../img/apps/select-rubric.png
-[SelectDate]: ../../img/apps/select-reviewdate.png
-[SelectReviewer]: ../../img/apps/select-reviewer.png
-[MoveReviewer]: ../../img/apps/move-reviewer.png
-[ClickSend]: ../../img/apps/click-send.png
-[ConfirmReview]: ../../img/apps/confirm-review.png
-[ChangeCohort]: ../../img/apps/change-cohort-short.png
+[AppScreen]: ../img/apps/applist-select.png
+[AppSelect]: ../img/apps/appscreen-send-for-review.png
+[SelectRubric]: ../img/apps/select-rubric.png
+[SelectDate]: ../img/apps/select-reviewdate.png
+[SelectReviewer]: ../img/apps/select-reviewer.png
+[MoveReviewer]: ../img/apps/move-reviewer.png
+[ClickSend]: ../img/apps/click-send.png
+[ConfirmReview]: ../img/apps/confirm-review.png
+[ChangeCohort]: ../img/apps/change-cohort-short.png
