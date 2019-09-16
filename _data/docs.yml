@@ -1,9 +1,11 @@
 - title: Getting Started with eGrad
   docs:
   - home
+- title: Screen Layouts
+  docs:
+  - screen-layouts/student-info
 - title: Applications Module
   docs:
   - applications/change-cohort
   - applications/prescreen
   - applications/send-to-review
-
