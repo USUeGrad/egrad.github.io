@@ -18,10 +18,10 @@ permalink: /docs/applications/change-cohort/
 7. Press submit down below
 ![step7]
 
-[step1]: ../../img/changeCohort/step1.png
-[step2]: ../../img/changeCohort/step2.png
-[step3]: ../../img/changeCohort/step3.png
-[step4]: ../../img/changeCohort/step4.png
-[step5]: ../../img/changeCohort/step5.png
-[step6]: ../../img/changeCohort/step6.png
-[step7]: ../../img/changeCohort/step7.png
+[step1]: ../img/changeCohort/step1.png
+[step2]: ../img/changeCohort/step2.png
+[step3]: ../img/changeCohort/step3.png
+[step4]: ../img/changeCohort/step4.png
+[step5]: ../img/changeCohort/step5.png
+[step6]: ../img/changeCohort/step6.png
+[step7]: ../img/changeCohort/step7.png

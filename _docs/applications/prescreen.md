@@ -18,8 +18,8 @@ permalink: /docs/applications/prescreen/
 ![SaveComplete]
 
 
-[AppScreen]: ../../img/apps/applist-select.png
-[Prescreen]: ../../img/apps/toggle-prescreen.png
-[RubricSelect]: ../../img/apps/rubric-select.png
-[AnswerQuestions]: ../../img/apps/answerq.png
-[SaveComplete]: ../../img/apps/save-complete.png
+[AppScreen]: ../img/apps/applist-select.png
+[Prescreen]: ../img/apps/toggle-prescreen.png
+[RubricSelect]: ../img/apps/rubric-select.png
+[AnswerQuestions]: ../img/apps/answerq.png
+[SaveComplete]: ../img/apps/save-complete.png
