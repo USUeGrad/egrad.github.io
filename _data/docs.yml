@@ -4,6 +4,7 @@
 - title: Screen Layouts
   docs:
   - screen-layouts/student-info
+  - screen-layouts/application-search
 - title: Applications Module
   docs:
   - applications/change-cohort
