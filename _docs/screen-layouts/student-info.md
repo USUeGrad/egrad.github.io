@@ -3,7 +3,7 @@ title: Student Information Screen
 permalink: /docs/screen-layouts/student-info/
 ---
 
-[ ![screen1] ](../img/student-info/screen.png)
+![screen1]
 1. Top Information Bar Buttons
 ![screen2]
 The quick action buttons allow you to:
