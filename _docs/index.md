@@ -27,8 +27,8 @@ In this page you will find walk-thru guides to common tasks accomplished with eG
 #### Administrator Tasks
 
 #### Screen Layouts
-- [Application Search Screen]()
-- [Applicant Information Screen](../screen-layouts/applicant-info/)
+- [Application Search Screen](../screen-layouts/application-search/)
+- [Applicant Information Screen]()
 - [Student Search Screen]()
 - [Student Information Screen](../screen-layouts/student-info/)
 
