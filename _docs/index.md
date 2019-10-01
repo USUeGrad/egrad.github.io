@@ -28,7 +28,7 @@ In this page you will find walk-thru guides to common tasks accomplished with eG
 
 #### Screen Layouts
 - [Application Search Screen]()
-- [Applicant Information Screen]()
+- [Applicant Information Screen](../screen-layouts/applicant-info/)
 - [Student Search Screen]()
 - [Student Information Screen](../screen-layouts/student-info/)
 
