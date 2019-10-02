@@ -1,0 +1,62 @@
+<style>
+.lightbox-image {
+	cursor: pointer;
+}
+.lightbox {
+    height: 100vh;
+    width: 100vw;
+	display: flex;
+    justify-content: center;
+    align-items: center;
+	position: fixed;
+	top: 0;
+	left: 0;
+	background: rgba(0,0,0,0.85);
+	z-index: 9999999;
+	cursor: pointer;
+}
+.lightbox img {
+	max-width: 95%;
+	max-height: 95%;
+}
+</style>
+
+<script>
+$(document).ready(function () {
+	$("img").each(addLightboxClass);
+	$("body").on("click", ".lightbox", closeLightbox);
+	$("img.lightbox-image").click(createLightbox);
+});
+
+const addLightboxClass = function() {
+	const el = $(this);
+	const url = el.attr('src');
+	const isNoLightbox = el.hasClass('no-lightbox');
+	if(!url || !isImageLink(url) || isNoLightbox) return;
+	el.addClass('lightbox-image');
+}
+
+const isImageLink = function(url) {
+	var p = /([a-z\-_0-9\/\:\.]*\.(jpg|jpeg|png|gif))/i;
+	return (url.match(p)) ? true : false;
+}
+
+const closeLightbox = function(event) {
+	$(this).remove();
+}
+
+const createLightbox = function(event) {
+	event.preventDefault();
+	const el = $(this);
+	$(template(el)).appendTo('body');
+}
+
+const template = function(el) {
+	return `
+	  <div class="lightbox">
+		<img src="${el.attr('src')}" />
+	  </div>
+	`;
+}
+
+</script>
