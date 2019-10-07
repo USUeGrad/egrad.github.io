@@ -11,3 +11,6 @@
   - applications/change-cohort
   - applications/prescreen
   - applications/send-to-review
+- title: Students Module
+  docs:
+  - students/add-student
